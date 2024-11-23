@@ -22,5 +22,4 @@ Let’s code together and create amazing projects! 🌟
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img width="40" height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="mailto:mdyavarii@gmail.com"><img width="40" height="40" src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
 <a href="https://t.me/mmd_yavarii"><img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-color-tal-revivo.png" alt="external-telegram-messenger-privately-held-company-with-cloud-based-instant-messaging-logo-color-tal-revivo"/></a>
-<a href="website"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/website.png" alt="website"/></a>
 <!-- <a href="insta"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/></a> -->
