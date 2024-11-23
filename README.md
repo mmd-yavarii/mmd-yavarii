@@ -10,21 +10,13 @@ Let’s code together and create amazing projects! 🌟
 
 
 ## my skills 🛠️
-Html / Css  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=html" alt="html-5"/><img width="25" height="25" src="https://skillicons.dev/icons?i=css" alt="css3"/></a> : 80%
-<br>
-JavaScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=js" alt="javascript"/></a> : 80%
-<br>
-regex	 <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=regex" alt="regex"/></a> : 80%
-<br>
-React.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=react" alt="react"/></a> : Learning...
-<br>
-redux <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=redux" alt="redux"/></a> : Learning...
-<br>
-TypeScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a> : Learning...
-<br>
-next.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=next" alt="next"/></a> : Learning...
-<br>
-
+<p>Html / Css  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=html" alt="html-5"/><img width="25" height="25" src="https://skillicons.dev/icons?i=css" alt="css3"/></a> : 80%</p>
+<p>JavaScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=js" alt="javascript"/></a> : 80%</p>
+<p>regex	 <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=regex" alt="regex"/></a> : 80%</p>
+<p>React.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=react" alt="react"/></a> : Learning...</p>
+<p>redux <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=redux" alt="redux"/></a> : Learning...</p>
+<p>TypeScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a> : Learning...</p>
+<p>next.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=next" alt="next"/></a> : Learning...</p>
 
 ## find me in social media 🔎
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img width="40" height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
