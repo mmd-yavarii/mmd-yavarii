@@ -2,7 +2,11 @@
 <img width="100%" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="">
 
 ## about me 📌
-hello my name is mohammad and i'm a joniur front end developer 
+Hi! I'm Mohammad Yavari, a software developer.
+I started my career in 2023 and have been studying Computer science since 2022.
+I love learning new skills and improving myself.
+
+Let’s code together and create amazing projects! 🌟
 
 
 ## my skills
@@ -22,6 +26,7 @@ TypeScript <a href=""><img width="20" height="20" src="https://img.icons8.com/co
 <a href="website"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/website.png" alt="website"/></a>
 <a href="watsap"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/whatsapp-logo.png" alt="whatsapp-logo"/></a>
 <a href="telegram"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/></a>
-
+<br>
+<a href="mdyavarii@gmail.com">mdyavarii@gmail.com</a>
 
 
