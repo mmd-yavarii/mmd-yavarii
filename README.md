@@ -13,7 +13,7 @@ Let’s code together and create amazing projects! 🌟
 <p>Html / Css  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=html" alt="html-5"/><img width="25" height="25" src="https://skillicons.dev/icons?i=css" alt="css3"/></a> : 80%</p>
 <p>JavaScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=js" alt="javascript"/></a> : 80%</p>
 <p>regex	 <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=regex" alt="regex"/></a> : 80%</p>
-<p>React.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=react" alt="react"/></a> : 40%</p>
+<p>React.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=react" alt="react"/></a> : 50%</p>
 <p>redux <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=redux" alt="redux"/></a> : Learning...</p>
 <p>TypeScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a> : Learning...</p>
 <p>next.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=next" alt="next"/></a> : Learning...</p>
