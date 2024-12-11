@@ -15,8 +15,8 @@ Let’s code together and create amazing projects! 🌟
 <p>regex	 <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=regex" alt="regex"/></a> : 80%</p>
 <p>React.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=react" alt="react"/></a> : 50%</p>
 <p>redux <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=redux" alt="redux"/></a> : Learning...</p>
-<p>TypeScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a> : Learning...</p>
 <p>next.js  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=next" alt="next"/></a> : Learning...</p>
+<p>TypeScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a> : Learning...</p>
 
 ## find me in social media 🔎
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img width="40" height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
