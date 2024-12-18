@@ -22,10 +22,11 @@ Let’s code together and create amazing projects! 🌟
 <!-- <p>TypeScript  <a href="#"><img width="25" height="25" src="https://skillicons.dev/icons?i=ts" alt="typescript"/></a> : Learning...</p> -->
 
 ## find me in social media 🔎
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Linkdin</a>
-<br>
-<a href="mailto:mdyavarii@gmail.com">Gmail</a>
-<br>
-<a href="https://t.me/mmd_yavarii">Telegram</a>
-<br>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">![LinkedIn](https://img.shields.io/badge/LinkedIn-mmd_yavarii-0A66C2)
+</a>
+<a href="mailto:mdyavarii@gmail.com">![Email](https://img.shields.io/badge/Email-mdyavarii@gmail.com-0072C6)
+</a>
+<a href="https://t.me/mmd_yavarii">![Telegram](https://img.shields.io/badge/Telegram-mmd_yavarii-0088CC)
+</a>
+
 
