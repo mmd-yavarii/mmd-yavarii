@@ -3,7 +3,7 @@
   Welcome to my GitHub profile! I'm excited to share my journey, skills, and projects with you.
 </p>
 
-<img height="350px" width="100%" src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif" alt="">
+<img width="100%" src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif" alt="">
 
 
 ## about me 📌
