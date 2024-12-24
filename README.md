@@ -1,7 +1,4 @@
 <h1 align="center">Hi There 👋</h1>
-<p align="center">
-  Welcome to my GitHub profile! I'm excited to share my journey, skills, and projects with you.
-</p>
 
 <img width="100%" src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif" alt="">
 
