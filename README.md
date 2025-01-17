@@ -1,6 +1,5 @@
 <h1 align="center">Hi There 👋</h1>
 
-<img width="100%" src="https://cdn-images-1.medium.com/max/859/1*IRFhWNqusUWbTsB1hQXhrQ.gif" alt="">
 
 
 ## about me 📌
