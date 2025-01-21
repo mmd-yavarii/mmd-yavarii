@@ -22,8 +22,10 @@ Let’s code together and create amazing projects! 🌟
 
 <h2>Other Skills 🧰</h2>
 <ul>
-  <li>Regex: Proficient &nbsp; <img src="https://skillicons.dev/icons?i=regex" alt="regex" width="25" height="25"></li>
-  <li>Redux: Intermediate &nbsp; <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="25" height="25"></li>
+  <li>Regex: &nbsp; <img src="https://skillicons.dev/icons?i=regex" alt="regex" width="25" height="25"></li>
+  <li>Redux: &nbsp; <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="25" height="25"></li>
+  <li>Styled Components: &nbsp; <img src="https://skillicons.dev/icons?i=styledcomponents" alt="redux" width="25" height="25"></li>
+  <li>GraphQL: &nbsp; <img src="https://skillicons.dev/icons?i=graphql" alt="redux" width="25" height="25"></li>
 </ul>
 
 <!--
