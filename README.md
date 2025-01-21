@@ -18,6 +18,8 @@ Let’s code together and create amazing projects! 🌟
   <li>React.js : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="25" height="25"></li>
 <!--   <li>TypeScript : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25"></li> -->
 <!--   <li>Next.js  : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li> -->
+<!--   <li>GraphQL : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=graphql" alt="React.js" width="25" height="25"></li> -->
+  
 </ul>
 
 <h2>Other Skills 🧰</h2>
@@ -25,7 +27,6 @@ Let’s code together and create amazing projects! 🌟
   <li>Regex: &nbsp; <img src="https://skillicons.dev/icons?i=regex" alt="regex" width="25" height="25"></li>
   <li>Redux: &nbsp; <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="25" height="25"></li>
   <li>Styled Components: &nbsp; <img src="https://skillicons.dev/icons?i=styledcomponents" alt="redux" width="25" height="25"></li>
-  <li>GraphQL: &nbsp; <img src="https://skillicons.dev/icons?i=graphql" alt="redux" width="25" height="25"></li>
 </ul>
 
 <!--
