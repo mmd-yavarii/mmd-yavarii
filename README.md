@@ -31,11 +31,11 @@ Let’s code together and create amazing projects! 🌟
 
 </ul>
 
-<!--
+
 ## My Projects 🚀
-- [Portfolio Website](https://github.com/mmd-yavarii/portfolio) - A personal website showcasing my skills and projects.
-- [To-Do App](https://github.com/mmd-yavarii/todo-app) - A simple to-do app using React.js and Tailwind CSS.
--->
+- [crypto tracker](https://react-crypto-app-mu-dusky.vercel.app/) 
+
+
 
 <br>
 
