@@ -36,7 +36,8 @@ Let’s code together and create amazing projects! 🌟
 
 
 ## My Projects 🚀
-- [crypto tracker](https://react-crypto-app-mu-dusky.vercel.app/) 
+- [crypto tracker](https://react-crypto-app-mu-dusky.vercel.app/)
+- [shopping app](https://react-shopping-app-beta.vercel.app/) 
 
 
 
