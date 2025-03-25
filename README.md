@@ -27,7 +27,6 @@ Let’s code together and create amazing projects! 🌟
 <h2>Other Skills 🧰</h2>
 <ul>
   <!--    <li>Sass: &nbsp; <img src="https://skillicons.dev/icons?i=sass" alt="redux" width="25" height="25"></li> -->
-  <li>Regex: &nbsp; <img src="https://skillicons.dev/icons?i=regex" alt="regex" width="25" height="25"></li>
   <li>Redux: &nbsp; <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="25" height="25"></li>
   <li>Styled Component: &nbsp; <img src="https://skillicons.dev/icons?i=styledcomponents" alt="redux" width="25" height="25"></li>
   <li>React Query: &nbsp; <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react query" width="25" height="25"></li>
