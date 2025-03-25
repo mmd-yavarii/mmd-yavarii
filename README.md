@@ -15,11 +15,12 @@ Let’s code together and create amazing projects! 🌟
 <!--   <li>HTML / CSS : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=html,css" alt="HTML/CSS" width="30" height="30"></li> -->
   
   <li>JavaScript : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="25" height="25"></li>
-    <li>Tailwind CSS : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="25" height="25"></li>
+<!--     <li>Tailwind CSS : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="25" height="25"></li> -->
   <li>React.js : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="25" height="25"></li>
   <li>GraphQL : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=graphql" alt="React.js" width="25" height="25"></li> 
+  <li>Next.js  : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li>
 <!--    <li>TypeScript : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25"></li>  -->
-<!--   <li>Next.js  : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li> -->
+
   
   
 </ul>
