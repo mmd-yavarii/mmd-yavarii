@@ -17,7 +17,7 @@ Let’s code together and create amazing projects! 🌟
   <li>JavaScript : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="25" height="25"></li>
 <!--     <li>Tailwind CSS : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="25" height="25"></li> -->
   <li>React.js : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="25" height="25"></li>
-  <li>GraphQL : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=graphql" alt="React.js" width="25" height="25"></li> 
+  <li>GraphQL : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=graphql" alt="React.js" width="25" height="25"></li> 
   <li>Next.js  : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li>
 <!--    <li>TypeScript : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25"></li>  -->
 
@@ -30,7 +30,7 @@ Let’s code together and create amazing projects! 🌟
      <li>Sass: &nbsp; <img src="https://skillicons.dev/icons?i=sass" alt="redux" width="25" height="25"></li>
   <li>Redux Toolkit: &nbsp; <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="25" height="25"></li>
   <li>Styled Component: &nbsp; <img src="https://skillicons.dev/icons?i=styledcomponents" alt="redux" width="25" height="25"></li>
-  <li>React Query: &nbsp; <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react query" width="25" height="25"></li>
+<!--   <li>React Query: &nbsp; <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" alt="react query" width="25" height="25"></li> -->
 
 </ul>
 
