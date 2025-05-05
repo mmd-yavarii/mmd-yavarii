@@ -3,9 +3,9 @@
 
 
 ## about me 📌
-Hi! I'm Mohammad Yavari, a software developer. <br>
-I started my career in 2023 and have been studying Computer science since 2022. <br>
-I love learning new skills and improving myself. 
+Hi! I'm Mohammad Yavari, a software developer.
+I've been on a journey of learning computer science and building software ever since I discovered my passion for technology.
+I love learning new skills and constantly improving myself.
 
 Let’s code together and create amazing projects! 🌟
 
@@ -36,9 +36,8 @@ Let’s code together and create amazing projects! 🌟
 
 
 ## My Projects 🚀
-- [crypto tracker](https://react-crypto-app-mu-dusky.vercel.app/)
-- [shopping app](https://react-shopping-app-beta.vercel.app/) 
-- [todo manager app](https://rjs-task-manager-gi357ola4-mohammads-projects-66cc4c17.vercel.app/) 
+- [Crypto tracker](https://react-crypto-app-mu-dusky.vercel.app/)
+- [Marketplace app](https://github.com/mmd-yavarii/rjs-shoping-app)
 
 
 
