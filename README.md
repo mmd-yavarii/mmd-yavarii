@@ -19,16 +19,21 @@ Let’s code together and create amazing projects! 🌟
     <li>MongoDB  : Elementary (crud) &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" alt="Next.js" width="25" height="25"></li>
 </ul>
 
-<!-- <ul>
+<!-- 
+## other skills 🔧
+<ul>
     <li>Redux &nbsp; <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="25" height="25"></li> 
     <li>Sass &nbsp; <img src="https://skillicons.dev/icons?i=sass" alt="redux" width="25" height="25"></li> 
     <li>Tailwind CSS &nbsp; <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="25" height="25"></li> 
-</ul> -->
+</ul> 
+-->
 
 
+<!-- 
 ## My Projects 🚀
 - [Crypto tracker](https://react-crypto-app-mu-dusky.vercel.app/)
-- [Marketplace app](https://github.com/mmd-yavarii/rjs-shoping-app)
+- [Marketplace app](https://github.com/mmd-yavarii/rjs-shoping-app) 
+-->
 
 
 
