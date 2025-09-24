@@ -42,7 +42,7 @@ Let’s code together and create amazing projects! 🌟
 <br>
 
 ## find me in social media 🔎
-<a href="https://www.linkedin.com/in/mohammad-yavarii-a9aa99339">![LinkedIn](https://img.shields.io/badge/LinkedIn-mmd_yavarii-0A66C2)</a> 
+<a href="https://www.linkedin.com/in/mmd-yavarii/">![LinkedIn](https://img.shields.io/badge/LinkedIn-mmd_yavarii-0A66C2)</a> 
 <a href="mailto:mdyavarii@gmail.com">![Email](https://img.shields.io/badge/Email-mdyavarii@gmail.com-0072C6)</a>
 <a href="https://t.me/mmd_yavarii">![Telegram](https://img.shields.io/badge/Telegram-mmd_yavarii-0088CC)</a>
 
