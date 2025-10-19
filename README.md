@@ -13,10 +13,10 @@ Let’s code together and create amazing projects! 🌟
 ## my skills 🛠️
 <ul>  
     <li>JavaScript : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="25" height="25"></li>
-    <li>TypeScript : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25"></li> 
     <li>React.js : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="25" height="25"></li>
-    <li>Next.js  : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li>
+    <li>Next.js  : Intermediate &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li>
     <li>MongoDB  : Elementary (crud) &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" alt="Next.js" width="25" height="25"></li>
+    <li>TypeScript : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25"></li> 
 </ul>
 
 <!-- 
