@@ -15,9 +15,18 @@ Let’s code together and create amazing projects! 🌟
     <li>JavaScript : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="25" height="25"></li>
     <li>React.js : Advanced &nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="25" height="25"></li>
     <li>Next.js  : Intermediate &nbsp; <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="25" height="25"></li>
-    <li>MongoDB  : Elementary (crud) &nbsp; <img src="https://skillicons.dev/icons?i=mongodb" alt="Next.js" width="25" height="25"></li>
+    <li> MongoDB & Mongoose: CRUD, Queries <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="25" height="25" style="vertical-align: middle; margin-left: 5px;"></li>
     <li>TypeScript : Learning... &nbsp; <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="25" height="25"></li> 
+    <li>
+      State Management : Redux, React Query, Context &nbsp;
+      <img src="https://skillicons.dev/icons?i=redux" alt="React" width="25" height="25" style="vertical-align: middle; margin-left: 5px;">
+    </li>
+    <li>
+      Tailwindcss : Learning... &nbsp;
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="React" width="25" height="25" style="vertical-align: middle; margin-left: 5px;">
+    </li>
 </ul>
+
 
 <!-- 
 ## other skills 🔧
